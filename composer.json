@@ -1,5 +1,5 @@
 {
-    "name": "jbohme/nominatim-laravel",
+    "name": "lava83/nominatim-laravel",
     "type": "library",
     "description": "Wrapper for Nominatim API to Laravel",
     "keywords": ["geo", "geolocation", "open street map", "osm", "nominatim", "web service", "laravel"],
@@ -9,6 +9,11 @@
         {
             "name": "José Bohme",
             "email": "jose_berna_dino@hotmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Stefan Riedel",
+            "email": "stefan.riedel.bo@gmail.com",
             "role": "Developer"
         }
     ],
